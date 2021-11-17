@@ -18,3 +18,8 @@ WARN  | 2021-11-17 15:53:46 | [main] javapractice.App (App.java:18) - hello, wil
 ERROR | 2021-11-17 15:53:46 | [main] javapractice.App (App.java:19) - hello, will be printed on error
 FATAL | 2021-11-17 15:53:46 | [main] javapractice.App (App.java:20) - hello, will be printed on fatal
 INFO  | 2021-11-17 15:53:46 | [main] javapractice.App (App.java:21) - Appenging String: hello, .
+INFO  | 2021-11-17 16:53:27 | [main] javapractice.App (App.java:17) - hello, worldwill be printed on info
+WARN  | 2021-11-17 16:53:27 | [main] javapractice.App (App.java:18) - hello, worldwill be printed on warning
+ERROR | 2021-11-17 16:53:27 | [main] javapractice.App (App.java:19) - hello, worldwill be printed on error
+FATAL | 2021-11-17 16:53:27 | [main] javapractice.App (App.java:20) - hello, worldwill be printed on fatal
+INFO  | 2021-11-17 16:53:27 | [main] javapractice.App (App.java:21) - Appenging String: hello, world.
