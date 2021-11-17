@@ -12,7 +12,7 @@ public class App
 	private static final Logger LOG = LogManager.getLogger(App.class);
     public static void main( String[] args )
     {
-        String massage = "hello, world";
+        String massage = "hello, ";
         LOG.debug(massage + "will be printed on debug");
         LOG.info(massage + "will be printed on info");
         LOG.warn(massage + "will be printed on warning");
