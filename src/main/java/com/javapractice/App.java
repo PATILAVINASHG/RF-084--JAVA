@@ -18,6 +18,7 @@ public class App
         LOG.warn(massage + "will be printed on warning");
         LOG.error(massage + "will be printed on error");
         LOG.fatal(massage + "will be printed on fatal");
+        LOG.fatal(massage + "will be printed on fatal");
         LOG.info("Appenging String: {}.", massage);
     	System.out.println(massage);
     }
